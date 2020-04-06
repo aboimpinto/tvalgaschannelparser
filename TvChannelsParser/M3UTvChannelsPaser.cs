@@ -132,7 +132,6 @@ namespace TvChannelsParser
                 {
                     writer.WriteLine($"#EXTINF:-1 tvg-id=\"{tvChannel.Id}\" tvg-name=\"{tvChannel.Name}\" tvg-logo=\"{tvChannel.Logo}\" group-title=\"\", {tvChannel.Name}");
                     writer.WriteLine($"{tvChannel.Path}|User-Agent=VLC");
-                    // writer.WriteLine($"{tvChannel.Path}");
                 }
             }
 
