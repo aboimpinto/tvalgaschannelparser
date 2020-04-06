@@ -206,7 +206,3 @@ namespace TvChannelsParser
         }
     }
 }
-
-
-
-// VLC is unable to open the MRL 'http://tek.mv2.link:8080/pauloaboim/Amr7K6mht9/237%7CUser-Agent=VLC'. Check the log for details.
