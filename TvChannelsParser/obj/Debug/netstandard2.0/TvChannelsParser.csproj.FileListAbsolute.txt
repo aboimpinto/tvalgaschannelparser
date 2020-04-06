@@ -1,0 +1,11 @@
+/home/esqueleto/myDevelop/TvAlgasChannelParser/TvChannelsParser/bin/Debug/netstandard2.0/TvChannelsParser.deps.json
+/home/esqueleto/myDevelop/TvAlgasChannelParser/TvChannelsParser/bin/Debug/netstandard2.0/TvChannelsParser.dll
+/home/esqueleto/myDevelop/TvAlgasChannelParser/TvChannelsParser/bin/Debug/netstandard2.0/TvChannelsParser.pdb
+/home/esqueleto/myDevelop/TvAlgasChannelParser/TvChannelsParser/obj/Debug/netstandard2.0/TvChannelsParser.csprojAssemblyReference.cache
+/home/esqueleto/myDevelop/TvAlgasChannelParser/TvChannelsParser/obj/Debug/netstandard2.0/TvChannelsParser.AssemblyInfoInputs.cache
+/home/esqueleto/myDevelop/TvAlgasChannelParser/TvChannelsParser/obj/Debug/netstandard2.0/TvChannelsParser.AssemblyInfo.cs
+/home/esqueleto/myDevelop/TvAlgasChannelParser/TvChannelsParser/obj/Debug/netstandard2.0/TvChannelsParser.dll
+/home/esqueleto/myDevelop/TvAlgasChannelParser/TvChannelsParser/obj/Debug/netstandard2.0/TvChannelsParser.pdb
+/home/esqueleto/myDevelop/TvAlgasChannelParser/TvChannelsParser/bin/Debug/netstandard2.0/OlimpoCache.dll
+/home/esqueleto/myDevelop/TvAlgasChannelParser/TvChannelsParser/bin/Debug/netstandard2.0/OlimpoCache.pdb
+/home/esqueleto/myDevelop/TvAlgasChannelParser/TvChannelsParser/obj/Debug/netstandard2.0/TvChannelsParser.csproj.CopyComplete

@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="System.Reactive" Version="*"/>
+    <PackageReference Include="Newtonsoft.Json" Version="*"/>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\OlimpoCache\OlimpoCache.csproj"/>
+  </ItemGroup>
+</Project>
