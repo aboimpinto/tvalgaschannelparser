@@ -1,8 +1,0 @@
-/home/esqueleto/myDevelop/TvAlgasChannelParser/OlimpoCache/bin/Debug/netstandard2.0/OlimpoCache.deps.json
-/home/esqueleto/myDevelop/TvAlgasChannelParser/OlimpoCache/bin/Debug/netstandard2.0/OlimpoCache.dll
-/home/esqueleto/myDevelop/TvAlgasChannelParser/OlimpoCache/bin/Debug/netstandard2.0/OlimpoCache.pdb
-/home/esqueleto/myDevelop/TvAlgasChannelParser/OlimpoCache/obj/Debug/netstandard2.0/OlimpoCache.csprojAssemblyReference.cache
-/home/esqueleto/myDevelop/TvAlgasChannelParser/OlimpoCache/obj/Debug/netstandard2.0/OlimpoCache.AssemblyInfoInputs.cache
-/home/esqueleto/myDevelop/TvAlgasChannelParser/OlimpoCache/obj/Debug/netstandard2.0/OlimpoCache.AssemblyInfo.cs
-/home/esqueleto/myDevelop/TvAlgasChannelParser/OlimpoCache/obj/Debug/netstandard2.0/OlimpoCache.dll
-/home/esqueleto/myDevelop/TvAlgasChannelParser/OlimpoCache/obj/Debug/netstandard2.0/OlimpoCache.pdb

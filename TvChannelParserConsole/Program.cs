@@ -1,4 +1,5 @@
-﻿using OlimpoCache;
+﻿using System;
+using OlimpoCache;
 using TvChannelsParser;
 
 namespace TvChannelParserConsole
@@ -8,7 +9,8 @@ namespace TvChannelParserConsole
         static void Main(string[] args)
         {
             var parser = new M3UTvChannelsPaser(new MemoryCacheProvider());
-            parser.Load("/home/esqueleto/myShare/canais.m3u");
+            Console.WriteLine($"Loading channel file: {args[0]}");
+            parser.Load(args[0]);
 
             parser.SaveChannels();
         }

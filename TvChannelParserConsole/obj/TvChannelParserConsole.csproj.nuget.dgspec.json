@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/esqueleto/myDevelop/TvAlgasChannelParser/TvChannelParserConsole/TvChannelParserConsole.csproj": {}
+    "/home/esqueleto/myDevelop/tvalgaschannelparser/TvChannelParserConsole/TvChannelParserConsole.csproj": {}
   },
   "projects": {
-    "/home/esqueleto/myDevelop/TvAlgasChannelParser/OlimpoCache/OlimpoCache.csproj": {
+    "/home/esqueleto/myDevelop/tvalgaschannelparser/OlimpoCache/OlimpoCache.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/esqueleto/myDevelop/TvAlgasChannelParser/OlimpoCache/OlimpoCache.csproj",
+        "projectUniqueName": "/home/esqueleto/myDevelop/tvalgaschannelparser/OlimpoCache/OlimpoCache.csproj",
         "projectName": "OlimpoCache",
-        "projectPath": "/home/esqueleto/myDevelop/TvAlgasChannelParser/OlimpoCache/OlimpoCache.csproj",
+        "projectPath": "/home/esqueleto/myDevelop/tvalgaschannelparser/OlimpoCache/OlimpoCache.csproj",
         "packagesPath": "/home/esqueleto/.nuget/packages/",
-        "outputPath": "/home/esqueleto/myDevelop/TvAlgasChannelParser/OlimpoCache/obj/",
+        "outputPath": "/home/esqueleto/myDevelop/tvalgaschannelparser/OlimpoCache/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/esqueleto/.nuget/NuGet/NuGet.Config"
@@ -38,7 +38,7 @@
           "dependencies": {
             "Microsoft.Extensions.Caching.Memory": {
               "target": "Package",
-              "version": "(, )"
+              "version": "[*, )"
             },
             "NETStandard.Library": {
               "suppressParent": "All",
@@ -57,18 +57,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/home/esqueleto/dotnet/sdk/3.1.300/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/esqueleto/myDevelop/TvAlgasChannelParser/TvChannelParserConsole/TvChannelParserConsole.csproj": {
+    "/home/esqueleto/myDevelop/tvalgaschannelparser/TvChannelParserConsole/TvChannelParserConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/esqueleto/myDevelop/TvAlgasChannelParser/TvChannelParserConsole/TvChannelParserConsole.csproj",
+        "projectUniqueName": "/home/esqueleto/myDevelop/tvalgaschannelparser/TvChannelParserConsole/TvChannelParserConsole.csproj",
         "projectName": "TvChannelParserConsole",
-        "projectPath": "/home/esqueleto/myDevelop/TvAlgasChannelParser/TvChannelParserConsole/TvChannelParserConsole.csproj",
+        "projectPath": "/home/esqueleto/myDevelop/tvalgaschannelparser/TvChannelParserConsole/TvChannelParserConsole.csproj",
         "packagesPath": "/home/esqueleto/.nuget/packages/",
-        "outputPath": "/home/esqueleto/myDevelop/TvAlgasChannelParser/TvChannelParserConsole/obj/",
+        "outputPath": "/home/esqueleto/myDevelop/tvalgaschannelparser/TvChannelParserConsole/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/esqueleto/.nuget/NuGet/NuGet.Config"
@@ -82,11 +82,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "/home/esqueleto/myDevelop/TvAlgasChannelParser/OlimpoCache/OlimpoCache.csproj": {
-                "projectPath": "/home/esqueleto/myDevelop/TvAlgasChannelParser/OlimpoCache/OlimpoCache.csproj"
+              "/home/esqueleto/myDevelop/tvalgaschannelparser/OlimpoCache/OlimpoCache.csproj": {
+                "projectPath": "/home/esqueleto/myDevelop/tvalgaschannelparser/OlimpoCache/OlimpoCache.csproj"
               },
-              "/home/esqueleto/myDevelop/TvAlgasChannelParser/TvChannelsParser/TvChannelsParser.csproj": {
-                "projectPath": "/home/esqueleto/myDevelop/TvAlgasChannelParser/TvChannelsParser/TvChannelsParser.csproj"
+              "/home/esqueleto/myDevelop/tvalgaschannelparser/TvChannelsParser/TvChannelsParser.csproj": {
+                "projectPath": "/home/esqueleto/myDevelop/tvalgaschannelparser/TvChannelsParser/TvChannelsParser.csproj"
               }
             }
           }
@@ -114,18 +114,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/home/esqueleto/dotnet/sdk/3.1.300/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/esqueleto/myDevelop/TvAlgasChannelParser/TvChannelsParser/TvChannelsParser.csproj": {
+    "/home/esqueleto/myDevelop/tvalgaschannelparser/TvChannelsParser/TvChannelsParser.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/esqueleto/myDevelop/TvAlgasChannelParser/TvChannelsParser/TvChannelsParser.csproj",
+        "projectUniqueName": "/home/esqueleto/myDevelop/tvalgaschannelparser/TvChannelsParser/TvChannelsParser.csproj",
         "projectName": "TvChannelsParser",
-        "projectPath": "/home/esqueleto/myDevelop/TvAlgasChannelParser/TvChannelsParser/TvChannelsParser.csproj",
+        "projectPath": "/home/esqueleto/myDevelop/tvalgaschannelparser/TvChannelsParser/TvChannelsParser.csproj",
         "packagesPath": "/home/esqueleto/.nuget/packages/",
-        "outputPath": "/home/esqueleto/myDevelop/TvAlgasChannelParser/TvChannelsParser/obj/",
+        "outputPath": "/home/esqueleto/myDevelop/tvalgaschannelparser/TvChannelsParser/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/esqueleto/.nuget/NuGet/NuGet.Config"
@@ -139,8 +139,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "/home/esqueleto/myDevelop/TvAlgasChannelParser/OlimpoCache/OlimpoCache.csproj": {
-                "projectPath": "/home/esqueleto/myDevelop/TvAlgasChannelParser/OlimpoCache/OlimpoCache.csproj"
+              "/home/esqueleto/myDevelop/tvalgaschannelparser/OlimpoCache/OlimpoCache.csproj": {
+                "projectPath": "/home/esqueleto/myDevelop/tvalgaschannelparser/OlimpoCache/OlimpoCache.csproj"
               }
             }
           }
@@ -162,11 +162,11 @@
             },
             "Newtonsoft.Json": {
               "target": "Package",
-              "version": "(, )"
+              "version": "[*, )"
             },
             "System.Reactive": {
               "target": "Package",
-              "version": "(, )"
+              "version": "[*, )"
             }
           },
           "imports": [
@@ -179,7 +179,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/home/esqueleto/dotnet/sdk/3.1.300/RuntimeIdentifierGraph.json"
         }
       }
     }

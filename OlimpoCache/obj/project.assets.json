@@ -2,10 +2,10 @@
   "version": 3,
   "targets": {
     ".NETStandard,Version=v2.0": {
-      "Microsoft.Extensions.Caching.Abstractions/3.1.3": {
+      "Microsoft.Extensions.Caching.Abstractions/3.1.5": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.Primitives": "3.1.3"
+          "Microsoft.Extensions.Primitives": "3.1.5"
         },
         "compile": {
           "lib/netstandard2.0/Microsoft.Extensions.Caching.Abstractions.dll": {}
@@ -14,13 +14,13 @@
           "lib/netstandard2.0/Microsoft.Extensions.Caching.Abstractions.dll": {}
         }
       },
-      "Microsoft.Extensions.Caching.Memory/3.1.3": {
+      "Microsoft.Extensions.Caching.Memory/3.1.5": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.Caching.Abstractions": "3.1.3",
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "3.1.3",
-          "Microsoft.Extensions.Logging.Abstractions": "3.1.3",
-          "Microsoft.Extensions.Options": "3.1.3"
+          "Microsoft.Extensions.Caching.Abstractions": "3.1.5",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "3.1.5",
+          "Microsoft.Extensions.Logging.Abstractions": "3.1.5",
+          "Microsoft.Extensions.Options": "3.1.5"
         },
         "compile": {
           "lib/netstandard2.0/Microsoft.Extensions.Caching.Memory.dll": {}
@@ -29,7 +29,7 @@
           "lib/netstandard2.0/Microsoft.Extensions.Caching.Memory.dll": {}
         }
       },
-      "Microsoft.Extensions.DependencyInjection.Abstractions/3.1.3": {
+      "Microsoft.Extensions.DependencyInjection.Abstractions/3.1.5": {
         "type": "package",
         "compile": {
           "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {}
@@ -38,7 +38,7 @@
           "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {}
         }
       },
-      "Microsoft.Extensions.Logging.Abstractions/3.1.3": {
+      "Microsoft.Extensions.Logging.Abstractions/3.1.5": {
         "type": "package",
         "compile": {
           "lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.dll": {}
@@ -47,11 +47,11 @@
           "lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.dll": {}
         }
       },
-      "Microsoft.Extensions.Options/3.1.3": {
+      "Microsoft.Extensions.Options/3.1.5": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "3.1.3",
-          "Microsoft.Extensions.Primitives": "3.1.3",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "3.1.5",
+          "Microsoft.Extensions.Primitives": "3.1.5",
           "System.ComponentModel.Annotations": "4.7.0"
         },
         "compile": {
@@ -61,7 +61,7 @@
           "lib/netstandard2.0/Microsoft.Extensions.Options.dll": {}
         }
       },
-      "Microsoft.Extensions.Primitives/3.1.3": {
+      "Microsoft.Extensions.Primitives/3.1.5": {
         "type": "package",
         "dependencies": {
           "System.Memory": "4.5.2",
@@ -151,10 +151,10 @@
     }
   },
   "libraries": {
-    "Microsoft.Extensions.Caching.Abstractions/3.1.3": {
-      "sha512": "jWyuPd4HqWT0rEjoCnG/7OB/KcYbIBa0z7TS6eWytTwrbjT2/pnp+LUYUZAqc9ppSZFf2u2gFYQ7RFS3UU+vEw==",
+    "Microsoft.Extensions.Caching.Abstractions/3.1.5": {
+      "sha512": "1HWdvlBNI4laVkx5oglv3Oaz5s8dO/dpkOep8FLv7+QAK2rm3ofBVv49aiDnijnwO+ZPJ/0iNctZWP0W2S07Rw==",
       "type": "package",
-      "path": "microsoft.extensions.caching.abstractions/3.1.3",
+      "path": "microsoft.extensions.caching.abstractions/3.1.5",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -163,14 +163,14 @@
         "lib/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.xml",
         "lib/netstandard2.0/Microsoft.Extensions.Caching.Abstractions.dll",
         "lib/netstandard2.0/Microsoft.Extensions.Caching.Abstractions.xml",
-        "microsoft.extensions.caching.abstractions.3.1.3.nupkg.sha512",
+        "microsoft.extensions.caching.abstractions.3.1.5.nupkg.sha512",
         "microsoft.extensions.caching.abstractions.nuspec"
       ]
     },
-    "Microsoft.Extensions.Caching.Memory/3.1.3": {
-      "sha512": "Ie7mWAuyd6BxnUYswc84Bf8iMHknNcP2ZV0me/8ZCsaIwcNb+NUHJOZwwaaAz6HJM6+K0PLilPePTCVkqY8XGw==",
+    "Microsoft.Extensions.Caching.Memory/3.1.5": {
+      "sha512": "tqnVZ/tyXiBAEeLtcTvyb/poVp/gn6bbpdr12SAbO4TcfNkd1eNCEbyyABo0qhiQh6vVwba41aixklElx4grdw==",
       "type": "package",
-      "path": "microsoft.extensions.caching.memory/3.1.3",
+      "path": "microsoft.extensions.caching.memory/3.1.5",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -179,42 +179,42 @@
         "lib/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.xml",
         "lib/netstandard2.0/Microsoft.Extensions.Caching.Memory.dll",
         "lib/netstandard2.0/Microsoft.Extensions.Caching.Memory.xml",
-        "microsoft.extensions.caching.memory.3.1.3.nupkg.sha512",
+        "microsoft.extensions.caching.memory.3.1.5.nupkg.sha512",
         "microsoft.extensions.caching.memory.nuspec"
       ]
     },
-    "Microsoft.Extensions.DependencyInjection.Abstractions/3.1.3": {
-      "sha512": "woeS5XeBChU76EmtFCwGHKgBfsYIn76u3myDq4zNY2ZrcwzBMNEViK2FRgXDgF11PBNbGdKCXsWFFZDtqPW0nQ==",
+    "Microsoft.Extensions.DependencyInjection.Abstractions/3.1.5": {
+      "sha512": "2VSCj2TZPMdeEi279Lawi6qJQu4+sEWizSOYrhY6hapyS1jxn1jVUZT1Ugv68bya+x8+3lD4+RqhUZql9PhISQ==",
       "type": "package",
-      "path": "microsoft.extensions.dependencyinjection.abstractions/3.1.3",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/3.1.5",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "Icon.png",
         "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
         "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
-        "microsoft.extensions.dependencyinjection.abstractions.3.1.3.nupkg.sha512",
+        "microsoft.extensions.dependencyinjection.abstractions.3.1.5.nupkg.sha512",
         "microsoft.extensions.dependencyinjection.abstractions.nuspec"
       ]
     },
-    "Microsoft.Extensions.Logging.Abstractions/3.1.3": {
-      "sha512": "j6r0E+OVinD4s13CIZASYJLLLApStb1yh5Vig7moB2FE1UsMRj4TYJ/xioDjreVA0dyOFpbWny1/n2iSJMbmNg==",
+    "Microsoft.Extensions.Logging.Abstractions/3.1.5": {
+      "sha512": "ZvwowjRSWXewdPI+whPFXgwF4Qme6Q9KV9SCPEITSGiqHLArct7q5hTBtTzj3GPsVLjTqehvTg6Bd/EQk9JS0A==",
       "type": "package",
-      "path": "microsoft.extensions.logging.abstractions/3.1.3",
+      "path": "microsoft.extensions.logging.abstractions/3.1.5",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "Icon.png",
         "lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.dll",
         "lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.xml",
-        "microsoft.extensions.logging.abstractions.3.1.3.nupkg.sha512",
+        "microsoft.extensions.logging.abstractions.3.1.5.nupkg.sha512",
         "microsoft.extensions.logging.abstractions.nuspec"
       ]
     },
-    "Microsoft.Extensions.Options/3.1.3": {
-      "sha512": "RyOSOg/kHW3AXojWGSdOs3BXJJnE9Sc6RVvP4LhnY5oaC2Da4k8CWfIw7I+QThxV8HTCPjzmON9c+QO+JZggNg==",
+    "Microsoft.Extensions.Options/3.1.5": {
+      "sha512": "f+JT/7lkKBMp/Ak2tVjO+TD7o+UoCfjnExkZNn0PZIso8kIXrqNy6x42Lrxf4Q0pW3JMf9ExmL2EQlvk2XnFAg==",
       "type": "package",
-      "path": "microsoft.extensions.options/3.1.3",
+      "path": "microsoft.extensions.options/3.1.5",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -223,14 +223,14 @@
         "lib/netcoreapp3.1/Microsoft.Extensions.Options.xml",
         "lib/netstandard2.0/Microsoft.Extensions.Options.dll",
         "lib/netstandard2.0/Microsoft.Extensions.Options.xml",
-        "microsoft.extensions.options.3.1.3.nupkg.sha512",
+        "microsoft.extensions.options.3.1.5.nupkg.sha512",
         "microsoft.extensions.options.nuspec"
       ]
     },
-    "Microsoft.Extensions.Primitives/3.1.3": {
-      "sha512": "5gK6qeq9CBCHBfB3Tim3jCJTLafT9FXFBAZZq39rC8adz8mxcjVAuQSw3jGgHqoRk0jwtXKFhXJUVur8vfeuFg==",
+    "Microsoft.Extensions.Primitives/3.1.5": {
+      "sha512": "6bLdjSAQix82oP2tsuX9MM2yjgUFFOkSZYyRSKoUULilw2cg0Y0H+dnugwYlfj8Jd7yjd/+QSdNBqEyYhTYv0w==",
       "type": "package",
-      "path": "microsoft.extensions.primitives/3.1.3",
+      "path": "microsoft.extensions.primitives/3.1.5",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -239,7 +239,7 @@
         "lib/netcoreapp3.1/Microsoft.Extensions.Primitives.xml",
         "lib/netstandard2.0/Microsoft.Extensions.Primitives.dll",
         "lib/netstandard2.0/Microsoft.Extensions.Primitives.xml",
-        "microsoft.extensions.primitives.3.1.3.nupkg.sha512",
+        "microsoft.extensions.primitives.3.1.5.nupkg.sha512",
         "microsoft.extensions.primitives.nuspec"
       ]
     },
@@ -598,7 +598,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
-      "Microsoft.Extensions.Caching.Memory",
+      "Microsoft.Extensions.Caching.Memory >= *",
       "NETStandard.Library >= 2.0.3"
     ]
   },
@@ -608,11 +608,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/esqueleto/myDevelop/TvAlgasChannelParser/OlimpoCache/OlimpoCache.csproj",
+      "projectUniqueName": "/home/esqueleto/myDevelop/tvalgaschannelparser/OlimpoCache/OlimpoCache.csproj",
       "projectName": "OlimpoCache",
-      "projectPath": "/home/esqueleto/myDevelop/TvAlgasChannelParser/OlimpoCache/OlimpoCache.csproj",
+      "projectPath": "/home/esqueleto/myDevelop/tvalgaschannelparser/OlimpoCache/OlimpoCache.csproj",
       "packagesPath": "/home/esqueleto/.nuget/packages/",
-      "outputPath": "/home/esqueleto/myDevelop/TvAlgasChannelParser/OlimpoCache/obj/",
+      "outputPath": "/home/esqueleto/myDevelop/tvalgaschannelparser/OlimpoCache/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/esqueleto/.nuget/NuGet/NuGet.Config"
@@ -639,7 +639,7 @@
         "dependencies": {
           "Microsoft.Extensions.Caching.Memory": {
             "target": "Package",
-            "version": "(, )"
+            "version": "[*, )"
           },
           "NETStandard.Library": {
             "suppressParent": "All",
@@ -658,7 +658,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/home/esqueleto/dotnet/sdk/3.1.300/RuntimeIdentifierGraph.json"
       }
     }
   }
